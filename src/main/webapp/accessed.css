@@ -1,0 +1,52 @@
+@import "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css";
+
+
+body{
+    background-image : url(image/wood.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    
+    
+    
+    
+}
+
+
+
+
+img{
+   
+    max-height: 250px;
+    max-width: 300px;
+    margin-left: -200px;
+    margin-top: -0px;
+    
+    position: absolute;
+}
+element.style {
+    position: absolute;
+}
+
+.para .details p{
+     margin-top: 10px;
+     
+    
+}
+.para {
+    margin-top: 150px;
+    max-width: 500px;
+}
+.para p {
+    font-weight: 600;
+    font-size: 22px;
+   
+}
+
+.error p{
+    text-align: center;
+    background: #ff4d4d;
+        
+    
+}
