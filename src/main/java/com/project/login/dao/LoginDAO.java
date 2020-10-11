@@ -4,15 +4,13 @@
  * and open the template in the editor.
  */
 
-package com.project.login.DAO;
+package com.project.login.dao;
 
-import com.project.login.Model.Login;
+import com.project.login.model.Login;
 
 
-public interface loginDAO {
+public interface LoginDAO {
     public Login search(String username, String password);
-    
-    
-    
+
 }
 
